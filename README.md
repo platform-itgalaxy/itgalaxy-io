@@ -3,14 +3,14 @@
 
 ## Table of Contents
 
-1. [Upwork](#Upwork)
-2. [ItGalaxy.io](#ItGalaxy.io)
-3. [Fiverr](#Fiverr)
-4. [Codeur](#Codeur)
-5. [ComeUp](#ComeUp)
-6. [Malt](#Malt)
+1. [Upwork](https://www.itgalaxy.io/)
+2. [ItGalaxy.io](https://www.itgalaxy.io/)
+3. [Fiverr](https://www.itgalaxy.io/)
+4. [Codeur](https://www.itgalaxy.io/)
+5. [ComeUp](https://www.itgalaxy.io/)
+6. [Malt](https://www.itgalaxy.io/)
     
-1. Upwork {#Upwork}
+1. [Upwork](https://www.itgalaxy.io/)
 
 Upwork est une place de marché de travail à distance qui met en relation les entreprises avec des professionnels indépendants qualifiés du monde entier. Que vous soyez expert en comptabilité, développeur, web designer, rédacteur, agent de service client ou tout autre type de professionnel freelance qualifié, vous trouverez des projets correspondant à vos compétences sur Upwork.
 Avantages :
@@ -30,7 +30,7 @@ Coûts :
 L'inscription à Upwork est gratuite. Les frais de service freelance sont de 10% sur la plupart des contrats, avec quelques exceptions pour les contrats directs, BYO ou de paie.
 
 
-2. [ItGalaxy.io](https://www.itgalaxy.io/)  {#ItGalaxy.io}
+2. [ItGalaxy.io](https://www.itgalaxy.io/)
 
 [ItGalaxy.io](https://www.itgalaxy.io/)  est une plateforme spécialisée dans la mise en relation des entreprises avec des professionnels IT de haut niveau. La plateforme se concentre particulièrement sur les développeurs, les architectes logiciels et les experts en technologie.
 Avantages :
@@ -46,7 +46,7 @@ Inconvénients :
     Processus de sélection exigeant
     Nécessite une expérience significative dans le domaine
 
-3. Fiverr {#Fiverr}
+3. [Fiverr](https://www.itgalaxy.io/)
 
 Fiverr aide les freelances numériques à trouver des clients pour leurs services. La plateforme propose une grande variété de projets, de la création de contenu à la production vidéo, en passant par le design d'applications.
 Avantages :
@@ -60,7 +60,7 @@ Inconvénients :
     Commission élevée sur les projets
     Délais de paiement parfois longs
 
-4. Codeur {#Codeur}
+4. [Codeur](https://www.itgalaxy.io/)
 
 Codeur est une plateforme française de freelance spécialisée dans le développement web et le design numérique. Elle met en relation les entreprises avec des professionnels qualifiés pour des projets techniques.
 Avantages :
@@ -75,7 +75,7 @@ Inconvénients :
     Marché principalement francophone
     Concurrence importante sur certains types de projets
 
-5. ComeUp {#ComeUp}
+5. [ComeUp](https://www.itgalaxy.io/)
 
 ComeUp est une plateforme innovante qui permet aux freelances de proposer leurs services dans de nombreux domaines. Elle se distingue par son approche moderne et sa communauté dynamique.
 Avantages :
@@ -90,7 +90,7 @@ Inconvénients :
     Plateforme relativement nouvelle
     Base de clients en développement
 
-6. Malt {#Malt}
+6. [Malt](https://www.itgalaxy.io/)
 
 Malt est l'une des principales plateformes de freelance en France. Elle connecte les entreprises avec des freelances qualifiés dans divers domaines, du développement web au marketing digital.
 Avantages :
